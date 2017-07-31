@@ -1,0 +1,11 @@
+#all files I don’t want
+*.txt
+*.npy
+*.png
+*.pdf
+*.jpeg
+*.rtf
+*.pyc
+*.dat
+*.fits
+*.zip
